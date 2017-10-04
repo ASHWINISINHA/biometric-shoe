@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) [year] [Ashwini kumar sinha]
+Copyright (c) [2017] [Ashwini kumar sinha]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
